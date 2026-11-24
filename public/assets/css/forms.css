@@ -1,0 +1,9 @@
+:root { --p:#534AB7; --g:#F1EFE8; --gb:#D3D1C7; --t:#1a1a1a; --ts:#73726c; }
+body.forms-page { background:#F1EFE8; color:var(--t); }
+.form-container { max-width:600px; }
+.quiz-container { max-width:700px; }
+.success-message { color:#198754; }
+.inscription-form { max-width:500px; margin:40px auto; background:#fff; padding:30px; border-radius:12px; }
+.inscription-form p { margin-bottom:16px; }
+.inscription-form input, .inscription-form select { width:100%; padding:10px; border:1px solid var(--gb); border-radius:8px; }
+.inscription-form button { width:100%; border:0; border-radius:8px; padding:12px; background:var(--p); color:#fff; }
